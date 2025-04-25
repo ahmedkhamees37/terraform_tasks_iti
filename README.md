@@ -29,9 +29,4 @@ Before using this Terraform project, ensure you have:
 
 ---
 
-## 🛠️ Setup & Deployment
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/aws-vpc-terraform.git
-cd aws-vpc-terraform
